@@ -1,129 +1,56 @@
-# Rahul | DevOps Learner
+## Rahul | DevOps Practitioner
 
-I am currently building my DevOps skills through hands-on projects focused on containerization, application deployment, and system understanding.
+**Enhancing my DevOps skills by turning guided projects into production-style systems**
 
-Most of my current work started as guided implementations, but I am actively working on extending and improving them to build real-world systems.
-
----
-
-## What I’m Learning
-
-* Docker (containerizing applications across multiple stacks)
-* Kubernetes (basic cluster setup and deployments)
-* CI/CD concepts and automation
-* Linux and command-line workflows
-* System design fundamentals for deployment
+I work hands-on with containerization, deployment, and Linux workflows, and I'm now extending those foundations into Kubernetes orchestration, CI/CD automation, and infrastructure as code.
 
 ---
 
-## DevOps Practice Projects
-
-### Kubernetes Cluster Demo
-
-* Set up and explored Kubernetes cluster basics
-* Worked with pods, deployments, and services
-* Understanding how containerized apps run in orchestration
-
-👉 https://github.com/rahul7528/rahul-k8s-cluster-demo
+### Core Toolkit
+- **Linux:** daily driver for navigation, observability, networking, and automation (see my fieldbook below)
+- **Containers:** Docker (Node, Python Flask, Java, ML apps)
+- **Orchestration:** Kubernetes (pods, deployments, services, cluster setup)
+- **Automation:** CI/CD concepts, GitHub Actions (in progress), Bash scripting
+- **Cloud & IaC:** AWS basics, Terraform (learning)
+- **Analytics side:** Power BI dashboards
 
 ---
 
-### Two-Tier Flask Application
+### Guides I Built From My Own Struggles
 
-* Built a simple multi-tier application using Flask
-* Structured backend service with basic architecture
-* Foundation for future improvements like database integration
+I got tired of hunting the same answers, so I wrote them down once, properly:
 
-👉 https://github.com/rahul7528/two-tier-flask-app
+**1. Linux Command Fieldbook**
+Linux from first principles — not a command list, a map for operating a machine at 2am.
+Organized into 4 pillars: Navigation & Manipulation, System Observability, Networking & Security, Automation. Every command includes the GUI equivalent and why it matters in production.
+→ [github.com/rahul7528/linux-command-fieldbook](https://github.com/rahul7528/linux-command-fieldbook)
 
----
+**2. Kubernetes with Chai**
+Kubernetes for absolute beginners, explained twice: once properly, once with a chai shop analogy. Covers Images, Containers, Pods, Nodes, Deployments, Services, ConfigMaps, Secrets, Ingress and how the control plane actually works.
+→ [github.com/rahul7528/kubernetes-with-chai](https://github.com/rahul7528/kubernetes-with-chai)
 
-### Node Todo App with Docker
-
-* Containerized a Node.js application
-* Learned Dockerfile creation and container execution
-* Focus on application packaging
-
-👉 https://github.com/rahul7528/Node-todo-app-with-Docker
+> I built these because I struggled to find simple, real-world explanations. If they save you time, star them.
 
 ---
 
-### Flask App with Docker
+### DevOps Practice Projects
+**Kubernetes Cluster Demo** — hands-on with pods, deployments, services
+→ [repo](https://github.com/rahul7528/rahul-k8s-cluster-demo)
 
-* Built and containerized a Python Flask app
-* Hands-on practice with Docker fundamentals
+**Two-Tier Flask Application** — structured backend, ready for DB integration
+→ [repo](https://github.com/rahul7528/two-tier-flask-app)
 
-👉 https://github.com/rahul7528/flask-app-with-Docker
-
----
-
-### Java Application with Docker
-
-* Containerized a Java-based application
-* Explored multi-language container setups
-
-👉 https://github.com/rahul7528/java-sample-docker
+**Dockerized Apps** — Node Todo, Flask, Java, ML Hello (multi-language packaging practice)
+→ [Node](https://github.com/rahul7528/Node-todo-app-with-Docker) • [Flask](https://github.com/rahul7528/flask-app-with-Docker) • [Java](https://github.com/rahul7528/java-sample-docker) • [ML](https://github.com/rahul7528/docker-ml-hello)
 
 ---
 
-### Docker ML Hello Project
-
-* Experimented with containerizing a simple ML-related app
-* Understanding environment setup inside containers
-
-👉 https://github.com/rahul7528/docker-ml-hello
-
----
-
-## Data Analytics Projects
-
-### Mobile Store Analysis
-
-* Created dashboards and insights using Power BI
-* Worked with structured business data
-
-👉 https://github.com/rahul7528/Hotspot-Mobile-Store
+### Current Focus — Advancing Beyond Tutorials
+- Connecting apps to Kubernetes with Helm and GitOps (ArgoCD)
+- Building end-to-end CI/CD pipelines
+- Terraform modules for AWS infrastructure
+- Adding monitoring and log rotation to existing projects
 
 ---
 
-### Patient Data Analysis
-
-* Explored healthcare dataset using analytical methods
-
-👉 https://github.com/rahul7528/APU_Patients
-
----
-
-### Ola Data Analysis
-
-* Built visual dashboards to analyze ride data trends
-
-👉 https://github.com/rahul7528/ola-powerbi-project
-
----
-
-## What I’m Working On Next
-
-* Improving existing projects beyond tutorial implementations
-* Connecting applications with Kubernetes deployments
-* Building CI/CD pipelines for automation
-* Learning Terraform and AWS for infrastructure
-
----
-
-## Goal
-
-Transition from guided projects to building complete DevOps systems that demonstrate:
-
-* independent problem-solving
-* deployment understanding
-* real-world workflows
-
----
-
-## Contact
-
-* LinkedIn: https://www.linkedin.com/in/rahul7528/
-* Email: fd.rahulchawla@gmail.com
-
----
+**Contact:** [LinkedIn](https://www.linkedin.com/in/rahul7528/) • fd.rahulchawla@gmail.com
